@@ -5,8 +5,9 @@
 - 📫 Reach me at: bemakow@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizmakowski&repo=github-readme-stats" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=beatrizmakowski&show_icons=true)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizmakowski&repo=convoychat" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmakowski&layout=compact" />
 </a>
+
