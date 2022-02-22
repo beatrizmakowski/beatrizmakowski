@@ -1,5 +1,5 @@
 ## :wave: Hi there! I’m Beatriz Makowski
-- :eyes: I’m currently learning programming as a hobby!
+- :eyes: I’m currently learning programming and Computer Science!
 - :seedling: I’m currently learning C and Computer Science concepts via [CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) + HTML, CSS and JavaScript via [Digital Innovation One](https://digitalinnovation.one/) 
 - 💞️ I’m looking to collaborate on anything, really! 
 - 📫 Reach me at: bemakow@gmail.com
