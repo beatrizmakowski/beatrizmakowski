@@ -1,6 +1,6 @@
 ## :wave: Hi there! I’m Beatriz Makowski
 - :eyes: I’m a Mechanical Engineer student looking forward to becoming a developer.
-- :seedling: I’m currently learning Computer Science via [CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) and Responsive Web Design via [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design).
+- :seedling: I’m currently learning Computer Science via [CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0) and Node.js via [Luiza Code](https://conteudo.carreiras.magazineluiza.com.br/luiza-code-4-edicao-inscricao).
 - 💞️ I’m looking to collaborate on anything, really! 
 - 📫 Reach me at: bemakow@gmail.com
 
