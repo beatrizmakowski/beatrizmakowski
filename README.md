@@ -15,7 +15,7 @@
 
 - I’m a senior <b>Mechanical Engineer student</b> at FAE University, currently living in <b>Curitiba, Brazil.</b> I will graduate in Dec/2022.
 - I have <b>more than 5 years of work experience</b> in the Automotive Industry as a <b>Process Engineering Analyst.</b> You can read more about my work experience in [my LinkedIn profile.](https://www.linkedin.com/in/beatriz-makowski/)
-- My first programming experience was at university, where I took two classes and learned to program in C. I later furthered my studies taking the course [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). Through both experiences, I have developed a <b>strong foundation in programming logic, control structures and data structures</b>, which have helped me immensely in my coding journey.
+- My first programming experience was at university, where I took two classes and learned to program in C. I later continued my studies taking the course [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x). Through both experiences, I have developed a <b>strong foundation in programming logic, control structures and data structures</b>, which have helped me immensely in my coding journey.
 - In March 2022, <b>I decided to change carrers and become a full-time software developer.</b> I'm a strong believer that <i>purpose fuels passion</i>, and I find a great sense of purpose in using my mental skills to both <b>challenge myself</b> and <b>help others</b>. It was this sense of purpose that led me to pursue an engineering degree when I was younger and it is the same sense of purpose that is fueling me during this career transition.
 - I am a <b>motivated problem solver</b> and <b>diligent learner</b>. Thanks to my work experience, I have developed the necessary interpersonal skills to <b>succeed in a dynamic and fast-paced work environment.</b> I take great pride in helping and sharing my knowledge with others. I am confident I would be a great asset to any development team.
 
@@ -33,6 +33,10 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Currently Studying
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MAterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ## GitHub Status
 
